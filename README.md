@@ -22,6 +22,7 @@ This repo is not an operational Foundation program, school deployment, productio
 | Publication state | private/not-public |
 | Release state | not released |
 | Public GitHub repo | not created |
+| First artifact | `civic-boundary/personal-engineering-civic-production-boundary.md` scaffolded |
 | Published artifact | private/not-public |
 | Released artifact | not released |
 | Profile routing | planned |
@@ -72,4 +73,4 @@ Profile routing and proof-stack routing are planned only. Any link from `Franzab
 
 ## First Build Task
 
-Create or complete `civic-boundary/personal-engineering-civic-production-boundary.md` as a scaffolded public-safe synthetic study with Foundation-adjacent boundary, personal proof-surface boundary, assumptions, safety and QA limits, validation questions, proof limits, and public/private/sealed checklist.
+First artifact scaffolded: `civic-boundary/personal-engineering-civic-production-boundary.md` now includes a problem statement, synthetic civic production context, Foundation-adjacent boundary, personal proof-surface boundary, production workflow categories, assumptions table, safety and QA limits, Mermaid civic boundary diagram, validation questions, proof limits, and public/private/sealed checklist.
