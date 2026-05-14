@@ -1,0 +1,3 @@
+assumption_id,workflow_class,throughput_class,qa_state,boundary
+synthetic-001,generic-sort,low,review-hold,not-live-operations
+synthetic-002,generic-print,medium,planned-review,not-private-measurement

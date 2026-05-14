@@ -1,0 +1,4 @@
+# Optional public-safe synthetic civic production study tooling
+numpy
+pandas
+matplotlib
