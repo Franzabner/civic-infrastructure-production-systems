@@ -76,19 +76,19 @@ flowchart TD
 - Does the artifact avoid operational Foundation program, school deployment, production recycling line, live civic node, disaster-response deployment, manufacturing readiness, certified safety, and proof-completion claims?
 - Does the artifact avoid donor data, student data, volunteer data, Foundation-private data, customer data, private sites, private facility layouts, private measurements, and live operations?
 - Does the artifact avoid production CAD, production schematics, BOMs, Gerbers, exact dimensions, sealed designs, and sealed geometry?
-- Are public/private/sealed boundaries visible before any public creation or routing step?
+- Are public/private/sealed boundaries visible before any profile or proof-stack routing step?
 
 ## What This Proves
 
 - A public-safe structure for separating civic production study categories from Foundation authority.
 - A reviewable pattern for assumptions, QA limits, boundary checks, and proof-limit language.
-- A local scaffold suitable for human review before public creation.
+- A scaffolded public artifact suitable for human review before profile or proof-stack routing.
 
 ## What This Does Not Prove
 
 - It does not prove Foundation operations, school deployment, production recycling line readiness, live civic node deployment, disaster-response deployment, manufacturing readiness, certified safety, physical validation, or proof completion.
 - It does not document a private facility, live operation, production design, customer system, donor record, student record, volunteer record, or Foundation-private system.
-- It does not release a public artifact or complete proof-stack routing.
+- It does not release a finished artifact or complete proof-stack routing.
 
 ## Public / Private / Sealed Checklist
 

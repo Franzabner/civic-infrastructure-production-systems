@@ -9,4 +9,4 @@
 | `qa-checklists/public-safe-qa-checklist.md` | scaffolded | public-safe checklist | planned |
 | `diagrams/civic-production-boundary-map.mmd` | scaffolded | public-safe diagram | planned |
 
-Published artifact: private/not-public. Released artifact: not released.
+Published artifact: scaffolded. Released artifact: not released.
