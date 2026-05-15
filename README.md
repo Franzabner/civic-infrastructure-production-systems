@@ -1,12 +1,12 @@
 # Civic Infrastructure Production Systems
 
 Status: scaffolded
-Publication state: private/not-public
+Publication state: public scaffold
 Release state: not released
 
 ## What This Repo Is
 
-`civic-infrastructure-production-systems` is a local-only Phase 5 scaffold for public-safe Foundation-adjacent civic infrastructure production studies. It covers recycling automation line studies, 3D-print production workflows, recycled-material infrastructure parts, civic-node hardware context, school infrastructure systems, disaster-resilient production boundaries, throughput, QA, material flow, and safety assumptions.
+`civic-infrastructure-production-systems` is a published Phase 5 public scaffold for public-safe Foundation-adjacent civic infrastructure production studies. It covers recycling automation line studies, 3D-print production workflows, recycled-material infrastructure parts, civic-node hardware context, school infrastructure systems, disaster-resilient production boundaries, throughput, QA, material flow, and safety assumptions.
 
 This repo is Franzabner personal engineering proof. It does not speak as the Foundation and does not define Foundation authority.
 
@@ -19,11 +19,11 @@ This repo is not an operational Foundation program, school deployment, productio
 | Field | Value |
 | --- | --- |
 | Status | scaffolded |
-| Publication state | private/not-public |
+| Publication state | public scaffold |
 | Release state | not released |
-| Public GitHub repo | not created |
+| Public GitHub repo | published scaffold |
 | First artifact | `civic-boundary/personal-engineering-civic-production-boundary.md` scaffolded |
-| Published artifact | private/not-public |
+| Published artifact | scaffolded |
 | Released artifact | not released |
 | Profile routing | planned |
 | Proof-stack routing | planned |
@@ -69,7 +69,7 @@ This repo contains public-safe civic infrastructure production studies only. It 
 
 ## Links Back After Public Creation
 
-Profile routing and proof-stack routing are planned only. Any link from `Franzabner` or `franzabner-proof-stack` must be handled in a separate reviewed routing patch after public creation is approved.
+Profile routing and proof-stack routing are planned only. Any link from `Franzabner` or `franzabner-proof-stack` must be handled in a separate reviewed routing patch.
 
 ## First Build Task
 

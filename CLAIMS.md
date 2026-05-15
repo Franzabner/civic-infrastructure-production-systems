@@ -2,7 +2,7 @@
 
 ## Allowed Claims
 
-- This is a scaffolded local-only repo for public-safe civic infrastructure production studies.
+- This is a scaffolded public repo for public-safe civic infrastructure production studies.
 - The repo documents personal engineering proof boundaries, synthetic assumptions, validation questions, and public/private/sealed review gates.
 - The first planned artifact is a personal engineering civic production boundary note.
 

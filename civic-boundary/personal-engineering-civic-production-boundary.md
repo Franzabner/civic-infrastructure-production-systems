@@ -115,4 +115,4 @@ flowchart TD
 
 ## Boundary
 
-This scaffold is not released, not published, and not proof-complete.
+This scaffold is a published public scaffold. It is not released and not proof-complete.
